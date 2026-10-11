@@ -23,10 +23,10 @@ Gestor de E-commerce com experiência em marketplaces (Mercado Livre e Shopee), 
   <a href="https://github.com/marciobuenno">
   </a>
   <a href="https://instagram.com/marciobuenno">
-    <img src="https://img.shields.io/badge/Instagram-24876F?style=for-the-badge&logo=instagram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Instagram-24876F?style=for-the-badge&logo=instagram&logoColor=white" />
   <a href="https://www.linkedin.com/in/marciobuenno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "marcio_bueno@hotmail.com.br"><img src="https://img.shields.io/badge/Gmail-D45431?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=41998973581&text=%20Olá%20amigos%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" target="_blank"></a> 
+  <a href = "marcio_bueno@hotmail.com.br"><img src="https://img.shields.io/badge/Gmail-D45431?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=41998973581&text=%20Olá%20amigos%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   </a>
 </p>
 
