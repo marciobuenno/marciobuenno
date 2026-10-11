@@ -3,6 +3,25 @@
 Gestor de E-commerce com experiência em marketplaces (Mercado Livre e Shopee), vendas online e tráfego pago pelo Meta Business. Perfil autodidata, cursando Análise e Desenvolvimento de Sistemas, em busca de oportunidades para unir E-commerce e Marketing Digital à área de Tecnologia da Informação.
 
 ##
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:marcio_bueno@hotmail.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/marciobueno-/?isSelfProfile=true/)
+
+
+<p align="left">
+  <a href="https://github.com/marciobuenno">
+  </a>
+  <a href="https://instagram.com/marciobuenno">
+    <img src="https://img.shields.io/badge/Instagram-24876F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/marciobuenno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "marcio_bueno@hotmail.com.br"><img src="https://img.shields.io/badge/Gmail-D45431?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=41998973581&text=%20Olá%20amigos%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  </a>
+</p>
+
+##
 🤖 Linguagens
  
 
@@ -18,19 +37,6 @@ Gestor de E-commerce com experiência em marketplaces (Mercado Livre e Shopee), 
 
 ##
 <br/>
-
-<p align="left">
-  <a href="https://github.com/marciobuenno">
-  </a>
-  <a href="https://instagram.com/marciobuenno">
-    <img src="https://img.shields.io/badge/Instagram-24876F?style=for-the-badge&logo=instagram&logoColor=white" />
-  <a href="https://www.linkedin.com/in/marciobuenno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "marcio_bueno@hotmail.com.br"><img src="https://img.shields.io/badge/Gmail-D45431?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=41998973581&text=%20Olá%20amigos%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  </a>
-</p>
-
-##
 
 
 <div align="center">
