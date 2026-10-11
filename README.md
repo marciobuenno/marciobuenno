@@ -3,7 +3,7 @@
 Gestor de E-commerce com experiência em marketplaces (Mercado Livre e Shopee), vendas online e tráfego pago pelo Meta Business. Perfil autodidata, cursando Análise e Desenvolvimento de Sistemas, em busca de oportunidades para unir E-commerce e Marketing Digital à área de Tecnologia da Informação.
 
 ##
->🤖 Linguagens
+🤖 Linguagens
  
 <img
 align="left"
