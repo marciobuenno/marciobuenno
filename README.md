@@ -40,7 +40,7 @@ Gestor de E-commerce com experiência em marketplaces (Mercado Livre e Shopee), 
 <div align="center">
   <a href="https://github.com/marciobuenno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciobuenno&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciobuenno&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciobuenno&layout=compact&langs_count=7&theme=dark"/>
 </div>
    
 ##
